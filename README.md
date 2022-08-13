@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hola a todos 👋
 
-<!--
-**FacundoUntref/FacundoUntref** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-¿Qué te interesa aprender?
 
-Here are some ideas to get you started:
+:computer: Me interesa aprender sobre la utilizacion de herramientas informaticas y todo lo relacionado a la computación.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-¿En qué estás trabajando?
+
+:wrench: Actualmente realizo soporte informatico de manera independiente.
+
+-¿Cuál es tu hobby? 
+
+:art: En mis tiempos libres realizo ilustraciones y juego videojuegos :video_game:
